@@ -1,0 +1,15 @@
+{
+  "name": "hubbleliquibot",
+  "version": "1.0.0",
+  "description": "Bot for tracking liquidations and then posting on twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.6.0"
+  }
+}
